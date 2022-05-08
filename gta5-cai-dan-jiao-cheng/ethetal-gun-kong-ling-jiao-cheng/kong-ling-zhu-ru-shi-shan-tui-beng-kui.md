@@ -25,7 +25,7 @@
 {% hint style="info" %}
 **请在C盘找到ETH文件，下载官方群或者售后群此文件**
 
-****![](<../../.gitbook/assets/image (44).png>)****
+****![](<../../.gitbook/assets/image (22).png>)****
 
 **解压缩后替换到c盘ETH文件内即可**
 {% endhint %}

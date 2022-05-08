@@ -8,7 +8,7 @@ description: By RuoHan
 
 **进入官网：**[**https://etherealmenu.cn/**](https://etherealmenu.cn)****
 
-![](<../../.gitbook/assets/image (278).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文和特殊符号，不然会注册不了，必须是英文**</mark>
@@ -22,7 +22,7 @@ description: By RuoHan
 
 **登录完成点击头像找到激活码兑换接口**
 
-![](<../../.gitbook/assets/image (349).png>)
+![](<../../.gitbook/assets/image (46) (1) (1).png>)
 
 **输入你的激活码，如果提示激活码已经被使用可能是bug，无视即可，如果注入不了，那就是激活码已被使用**
 
@@ -34,7 +34,7 @@ description: By RuoHan
 
 **官方群或售后群文件内下载Et官方注入器：**
 
-![](<../../.gitbook/assets/image (295).png>) ![](<../../.gitbook/assets/image (392).png>)
+![](<../../.gitbook/assets/image (39) (1) (1).png>) ![](<../../.gitbook/assets/image (78).png>)
 
 ## <mark style="color:red;">**3.安装：**</mark>
 
