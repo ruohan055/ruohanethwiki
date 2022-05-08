@@ -1,3 +1,7 @@
+---
+description: By RuoHan
+---
+
 # ⚠ 呼出后鼠标无法移动教程
 
 {% hint style="info" %}

@@ -1,5 +1,5 @@
 ---
-description: 购买完成后均为终身使用，终身是指软件的生命周期内。
+description: 购买完成后均为终身使用，终身是指软件的生命周期内。 By RuoHan
 ---
 
 # 🈳 Ethetal丨空灵 推荐介绍
