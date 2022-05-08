@@ -35,3 +35,11 @@ description: By RuoHan
 {% endhint %}
 
 ****
+
+## **序列3：**
+
+![](../../.gitbook/assets/@V\~\)GCA92\~UA8Q%K9IIBJPY.jpg)
+
+{% hint style="info" %}
+**关加速器，卸载重装**
+{% endhint %}
